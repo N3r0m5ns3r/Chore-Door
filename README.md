@@ -1,2 +1,2 @@
 # Chore-Door
-a front end game 
+a simple front end game 
